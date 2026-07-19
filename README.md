@@ -12,7 +12,7 @@ not as safe as msec
 
 `v28` is VM confirmed
 
-```
+```lua
 do
   -- globals;
   function init( ... )
