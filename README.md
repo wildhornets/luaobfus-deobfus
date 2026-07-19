@@ -39,4 +39,4 @@ result (but its still crashes at `game:GetService();`):
 
 ![Alt text](https://raw.githubusercontent.com/wildhornets/luaobfus-deobfus/refs/heads/main/img/1.png)
 
-![Alt text]([path/to/image.png](https://raw.githubusercontent.com/wildhornets/luaobfus-deobfus/refs/heads/main/img/2.png))
+![Alt text](https://raw.githubusercontent.com/wildhornets/luaobfus-deobfus/refs/heads/main/img/2.png)
