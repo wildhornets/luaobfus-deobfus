@@ -1,6 +1,6 @@
 <h3 align="center">no detailed explanation, find out how to do it by yourself</h3>
 
-my analysis of roblox script protected with lua obfuscator
+my analysis of roblox script protected with lua obfuscator (i do this in 2025)
 
 `global table.insert` is unused
 
